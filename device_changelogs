@@ -1,13 +1,12 @@
-/// 2021-12-17
+/// 2021-12-20
++ We go OFFICIAL
 + Trees clean-up.
 + ArrowOS-12.0 Kernel.
 + Merged to December security patch.
 + Built-in CameraGO instead of Snap Camera for better experience.
-+ Change Bixby button into Google Voice Assistant.
 + Fix Netflix crashes (Widevine L3).
 + Use correct default network mode.
 + Disable compressed APEX for better performance.
 + Enable all AOSP audio effects.
 + Enable HDR and Wide Color display.
-+ Move volume panel to left side.
 + Fixed GMaps zoom bug.
